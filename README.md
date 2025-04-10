@@ -23,14 +23,6 @@ An interactive Power BI dashboard for tracking and analyzing project metrics suc
 - Dynamic filtering by project name and type
 - Interactive visuals and slicers
 
-## File Structure
-
-| Path                      | Description                                 |
-|---------------------------|---------------------------------------------|
-| src/project-dashboard.pbix | Power BI dashboard file                  |
-| assets/dashboard-preview.jpg | Screenshot of the dashboard            |
-| docs/user-guide.md     | User guide with visual explanations         |
-
 ## How to Use
 
 1. Clone or download this repository.
@@ -38,15 +30,3 @@ An interactive Power BI dashboard for tracking and analyzing project metrics suc
 3. Connect to your own dataset or use the embedded data.
 4. Customize filters, measures, or visuals as needed.
 
-## Requirements
-
-- Power BI Desktop
-- Optional: SQL Server / Excel as a data source
-
-
----
-
-## Author
-
-*King*  
-Data Analyst | Power BI Expert | SQL & Excel Specialist
