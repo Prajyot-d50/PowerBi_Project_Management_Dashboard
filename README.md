@@ -25,15 +25,15 @@ An interactive Power BI dashboard for tracking and analyzing project metrics suc
 
 🚀 Use Cases
 
-This dashboard can be used for:
+- This dashboard can be used for:
 
-Portfolio Management – Monitor performance of all projects at a glance.
+- Portfolio Management – Monitor performance of all projects at a glance.
 
-Financial Analysis – Evaluate return on investment (ROI) from projects.
+- Financial Analysis – Evaluate return on investment (ROI) from projects.
 
-Departmental Contribution – Assess which departments are driving the most benefits.
+- Departmental Contribution – Assess which departments are driving the most benefits.
 
-Strategic Decision Making – Prioritize high-impact projects for budget allocations.
+- Strategic Decision Making – Prioritize high-impact projects for budget allocations.
 
-Stakeholder Reporting – Present actionable insights to executives or investors.
+- Stakeholder Reporting – Present actionable insights to executives or investors.
 
