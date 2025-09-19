@@ -4,7 +4,7 @@ An interactive Power BI dashboard for tracking and analyzing project metrics suc
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://github.com/user-attachments/assets/cf98e028-76a9-443a-8ae4-28c63fcd5127)
+<img width="1247" height="539" alt="image" src="https://github.com/user-attachments/assets/1664860d-e7aa-43eb-ac77-afe2b80911eb" />
 
 
 📈  Key Metrics
